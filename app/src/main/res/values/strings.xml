@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">uts Krispinus Pierre</string>
+    <string-array name="arr_jenispendaftaran">
+        <item> jalur tanpa tes </item>
+        <item> tes tertulis </item>
+        <item> tes wawancara </item>
+        <item> rekomendasi </item>
+    </string-array>
+</resources>
